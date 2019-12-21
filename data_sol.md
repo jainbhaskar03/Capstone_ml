@@ -3,7 +3,7 @@
 
 # DATA 
 
-The data for this project is taken from kaggle(https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants). The data are in csv format and provided by a kaggle user for educational purposes. It has 17 columns and above 51k rows. It has various fields for our need. 
+The data for this project is taken from kaggle(https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants). The data is provided in csv format by a kaggle user for educational purposes. The file has 17 columns and more than 51k rows. Some fields from this file are of our interest.
 
 # USAGE
 
